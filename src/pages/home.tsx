@@ -4,9 +4,9 @@ import "../styles/home.css";
 export default function Home() {
   return (
     <main className="landing-page">
-      <h1 className="site-title">Wee AI</h1>
+      <h1 className="site-title">Wengdev AI</h1>
       <p>
-        Wee AI provide AI Tools for everyone. Wee AI use API from{" "}
+        Wengdev AI provide AI Tools for everyone. Wengdev AI use API from{" "}
         <a href="https://huggingface.co" target="_blank">
           Huggingface
         </a>{" "}
@@ -17,7 +17,7 @@ export default function Home() {
         for ChatAI.
       </p>
       <p>
-        Wee AI allows you to select an AI Model to use. So you can choose an AI
+        Wengdev AI allows you to select an AI Model to use. So you can choose an AI
         model that you think is good to use.
       </p>
       <h2>Try Now</h2>
